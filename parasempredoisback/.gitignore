@@ -1,0 +1,20 @@
+build/
+.gradle/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### Gradle ###
+gradle-app.setting
+
+### MacOS ###
+.DS_Store
+
+### Logs ###
+*.log
